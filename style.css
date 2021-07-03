@@ -47,6 +47,7 @@ h2{
     box-shadow: 10px 10px 40px gray ;
 }
 .exprience-area{
+    background-position-y: 100px;
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     margin-top: 200px;
